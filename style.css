@@ -149,15 +149,3 @@ body {
         transform: translateY(-300px) scaleX(10);
     }
 }
-
-.image {
-    position: absolute;
-    width: 250px;
-    top: 123%;
-    left: 15%;
-}
-.image img {
-    width: 75%;
-    border-radius: 15px;
-}
-
